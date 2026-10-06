@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://viskkaads.github.io/viskka-ads/sitemap.xml
